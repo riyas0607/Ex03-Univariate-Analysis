@@ -13,9 +13,9 @@ Step4 Mention the datatypes from the data.
 Step5 Count the values from the data.
 Step6 Do plots like boxplots,countplot,distribution plot,histogram plot.
 # Program
-Developed by:KUMARAVEL R
+Developed by:RIYASUDEEN R
 
-Register Number:212221220029
+Register Number:212221220044
 
 ```
 import pandas as pd
